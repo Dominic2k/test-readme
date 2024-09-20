@@ -21,3 +21,36 @@
  
 
     [telegram group](https://t.me/Dominic2kjs).
+
+  ##Update
+
+No prior knowledge of programming is required to follow this challenge. You need only:
+
+```javascript
+console.log("Hello");
+```
+```js
+console.log("Hello");
+```
+
+```sh
+Cái này copy nè
+```
+
+
+- **Không có in ngiêng**
+- **_Internal script_**
+- **_External script_**
+- **_Multiple External scripts_**
+
+  ```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>30DaysOfScript:Inline Script</title>
+  </head>
+  <body>
+    <button onclick="alert('Welcome to 30DaysOfJavaScript!')">Click Me</button>
+  </body>
+</html>
+```
